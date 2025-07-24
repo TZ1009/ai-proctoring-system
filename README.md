@@ -29,13 +29,13 @@ This project presents a lightweight, real-time AI proctoring system that integra
 ## 📄 Full Project Documentation
 
 You can read the full report here:  
-📄 [Project Introduction PDF](./Project_intro.pdf)
+📄 [Project Introduction PDF](./Project_Intro.pdf)
 
 ## 📂 Repository Structure 
 
 ```
 .
-├── Project_intro.pdf
+├── Project_Intro.pdf
 ├── demo_pic_1.png
 ├── demo_pic_2.png
 ├── demo_video_1.mp4
@@ -45,7 +45,7 @@ You can read the full report here:
 
 ## 🙋 About the Author
 
-Zhang Tingwei is an undergraduate majoring in Artificial Intelligence at Jinan University. His interests include computer vision, human-computer interaction, and educational AI systems.
+Zhang Tingwei is an undergraduate majoring in Artificial Intelligence at Jinan University. His interests include computer vision, human-computer interaction, and AI systems.
 
 ---
 
