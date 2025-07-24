@@ -1,6 +1,6 @@
 # AI-Based Examination Proctoring System Using Pose Estimation
 
-Author: Zhang Tingwei (章廷瑋)
+Author: TZ1009
 
 ## 📌 Introduction
 
@@ -45,7 +45,7 @@ You can read the full report here:
 
 ## 🙋 About the Author
 
-Zhang Tingwei is an undergraduate majoring in Artificial Intelligence at Jinan University. His interests include computer vision, human-computer interaction, and AI systems.
+TZ1009 is an undergraduate majoring in Artificial Intelligence at Jinan University. His interests include computer vision, human-computer interaction, and AI systems.
 
 ---
 
